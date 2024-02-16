@@ -1,0 +1,38 @@
+{
+  "configurations": [
+    {
+      "name": "windows-gcc-x64",
+      "includePath": [
+        "${workspaceFolder}/**"
+      ],
+      "compilerPath": "gcc",
+      "intelliSenseMode": "windows-gcc-x64",
+      "compilerArgs": [
+        ""
+      ],
+      "compilerPathInCppPropertiesJson": "gcc",
+      "mergeConfigurations": false,
+      "browse": {
+        "path": [
+          "c:/Users/riioz/OneDrive/Bureau/codingame/Nintendo-Sponsored-Challenge/**",
+          "${workspaceFolder}"
+        ],
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "cStandard": "${default}",
+      "cppStandard": "${default}"
+    },
+    {
+      "name": "gcc",
+      "includePath": [
+        "${workspaceFolder}/**"
+      ],
+      "defines": [
+        "_DEBUG",
+        "UNICODE",
+        "_UNICODE"
+      ]
+    }
+  ],
+  "version": 4
+}
